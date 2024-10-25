@@ -27,7 +27,6 @@ services:
       - static:/static
   gateway:
     image: viktoriia5555/kittygram_gateway
-    build: ./nginx/
     env_file: .env
     ports:
       - 9000:80
