@@ -1,7 +1,7 @@
 #  Проект: Kittygram
 Kittygram — платформа для обмена фотографиями домашних животных, для настоящих любителей кошек. Здесь пользователи могут делиться фотографиями своих пушистых друзей и наслаждаться снимками котов, добавленными другими участниками сообщества. Пользователь заполняет информацию о его имени, годе рождения и цвете. Также есть возможность загрузить фотографию питомца и указать его достижения.
 
-![Status](https://github.com/kostoyanskaya/kittygram_final/actions/workflows/kittygram_workflow.yml/badge.svg)
+[![Main Kittygram workflow](https://github.com/kostoyanskaya/kittygram_final/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/kostoyanskaya/kittygram_final/actions/workflows/main.yml)
 
 ### Основные возможности:
 - Создание профиля питомца: Пользователи могут добавить информацию о своих кошках, включая имя, год рождения и цвет.
