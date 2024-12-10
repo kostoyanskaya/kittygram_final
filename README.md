@@ -94,4 +94,4 @@ sudo docker compose -f docker-compose.production.yml exec backend cp -r /app/col
 
 
 ## Автор
-#### [_Анастасия_](https://github.com/kostoyanskaya/)
+#### [_Виктория_](https://github.com/kostoyanskaya/)
